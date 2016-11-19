@@ -10,6 +10,8 @@ namespace primo_repo_test
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!!!");
+            Console.ReadLine();
         }
     }
 }
